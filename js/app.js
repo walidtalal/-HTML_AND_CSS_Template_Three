@@ -84,7 +84,7 @@ window.addEventListener("scroll", function () {
 /************ Start Counting ************/
 
 // Set the date we're counting down to
-const countDate = new Date("Dec 31, 2022 23:59:59").getTime();
+const countDate = new Date("Dec 31, 2023 23:59:59").getTime();
 
 const counter = setInterval(function () {
   // get date now
